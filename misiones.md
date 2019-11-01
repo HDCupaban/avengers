@@ -1,2 +1,3 @@
 # Misiones
-dr domm r
+* dr domm r
+* Capturar a Red SKull
